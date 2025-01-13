@@ -1,6 +1,6 @@
 ---
-title: "使用Tailscale，ssh连接服务器指南"  
-date: 2025-01-13  
+title: "使用Tailscale，ssh连接服务器指南"
+date: 2025-01-13
 ---
 # 0. 熟悉网络的你为什么要用tailscale（给有困惑的人提供的）
 1. 当然，我们把三层交换机直接接入校园网，可以让我们在校园网内直接通过`ssh user@ip:port`的形式访问服务器。
